@@ -1,4 +1,4 @@
-# A practical introduction to Git 
+# A practical and fundamental introduction to Git 
 ## JB Poline, QLS-C-600
 
 ## Who is this lesson for:
