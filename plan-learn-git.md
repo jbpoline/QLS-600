@@ -1,6 +1,6 @@
 # A practical introduction to Git 
 ## JB Poline, QLS-C-600
-
+## Date: April 9th 2020
 ## Who is this lesson for:
 
 You have heard of git, but you really are not using it daily. You would like to understand its concepts, and get some practice. You want to use it for collaborative and/or open science work. If you are proficient in git, e.g., you have multiple repos and you are interacting with other developers through GitHub, gitlab, bitbucket or other, you do not need to follow this lesson.
